@@ -1,3 +1,3 @@
 import { handleSubmit } from "./js/formHandler";
 
-alert("I exist!");
+alert("This is cool!");
